@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Random Signals]]></title>
         <description><![CDATA[Random Signals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/random-signals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 10:30:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 10:53:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/random-signals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kurztripp nach Brüssel und Mons]]></title>
             <description><![CDATA[<article><h1>Kurztripp nach Brüssel und Mons</h1><p>Verstärkt durch Silvia, die Frau von Markus, und Milka, Tim's Verlobte, sind wir letztes Jahr zu sechst für ein Wochenende nach Brüssel gefahren. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/babd79ae7375899124ef8607a4b34a8916ba89d0.jpg"></article>]]></description>
-            <link>undefinedkurztripp-nach-brussel-und-mons/index.html</link>
+            <link>https://thegrid.ai/random-signals/kurztripp-nach-brussel-und-mons/index.html</link>
             <guid isPermaLink="false">0e4a3f80-617e-49e0-9e65-f0578b98135d</guid>
-            <pubDate>Thu, 07 Jan 2016 10:30:01 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 10:53:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
