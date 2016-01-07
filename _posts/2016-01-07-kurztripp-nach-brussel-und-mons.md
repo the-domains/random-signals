@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-07T10:30:01.045Z'
-dateModified: '2016-01-07T10:28:57.996Z'
+datePublished: '2016-01-07T10:53:01.962Z'
+dateModified: '2016-01-07T10:52:53.552Z'
 title: Kurztripp nach Brüssel und Mons
 author: []
 authors: []
